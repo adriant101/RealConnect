@@ -128,7 +128,7 @@ public class UserRegistration  {
 					
 				
 					
-					successMsg.setText("You will be redirected in 5 seconds");
+					successMsg.setText("You will be redirected in 5 seconds.\nPlease wait!");
 					
 					
 					

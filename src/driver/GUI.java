@@ -14,7 +14,7 @@ import registration.UserRegistration;
 public class GUI extends Application { //inheritance
 
 private UserProfileInput userProfile = new UserProfileInput();
-private UserLogin loginScreen = new UserLogin();
+//private UserLogin loginScreen = new UserLogin();
 public static Stage myStage;
 
 	public static void main(String[] args) {
